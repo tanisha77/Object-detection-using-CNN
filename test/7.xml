@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>7.jpeg</filename>
+	<path>C:\Users\Kishan Kishore\labelImg\test\7.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4288</width>
+		<height>2848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2150</xmin>
+			<ymin>1580</ymin>
+			<xmax>3145</xmax>
+			<ymax>2401</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>784</xmin>
+			<ymin>1358</ymin>
+			<xmax>1180</xmax>
+			<ymax>1745</ymax>
+		</bndbox>
+	</object>
+</annotation>

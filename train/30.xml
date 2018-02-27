@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>30.jpg</filename>
+	<path>C:\Users\Kishan Kishore\labelImg\train\30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>978</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>464</ymin>
+			<xmax>650</xmax>
+			<ymax>886</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>426</ymin>
+			<xmax>346</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+</annotation>
